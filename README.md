@@ -2,8 +2,8 @@
 Fork of repository Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery
 We added additional data to try and improve detection from kaggle competition
 
-Final Write up 
-[Report](https://docs.google.com/document/d/1Jqeko2I-dzgRrEKVCsPhA6gcFZ2cUtw4TrBhHjAsyBo/edit?tab=t.0)
+Final write up <br>
+[Report](https://docs.google.com/document/d/1Jqeko2I-dzgRrEKVCsPhA6gcFZ2cUtw4TrBhHjAsyBo/edit?tab=t.0)<br>
 [Slides](https://docs.google.com/presentation/d/1xONTjHXPBcV2Nyz0g5XK33l2TyUPw1bff9Q285q_-AY/edit?usp=drive_link)
 
 * The dataset: 
